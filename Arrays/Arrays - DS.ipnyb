@@ -1,0 +1,4 @@
+# Complete the reverseArray function below.
+def reverseArray(a):
+    a = a[::-1]
+    return a
